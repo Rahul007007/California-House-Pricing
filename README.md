@@ -9,6 +9,4 @@
 
 Create a new environment
 
-'''
 python -m venv EndtoEndML -y
-'''
